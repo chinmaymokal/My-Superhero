@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+	font-family: 'Helvatica', 'Arial', sans-serif;
+}
+
+header{
+	background-color: #4C1DB3;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'AVENGEANCE HEROIC AVENGER';
+}
